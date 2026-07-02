@@ -33,7 +33,7 @@ nrp-recon >
 🚀 How to Run
 If this is your first time accessing this repository, please clone it to your local machine first:
 ```
-git clone git@github.com:panjipras36-star/recon11.git
+git clone https://github.com/panjipras36-star/recon11.git
 ```
 Navigate to the project director
 ```
