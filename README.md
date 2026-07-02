@@ -1,6 +1,4 @@
-# RECON1.1
-
-# RECON11 // Tactical Network Reconnaissance Suite
+# RECON1.1 // Tactical Network Reconnaissance Suite
 
 RECON11 is a specialized, lightweight network auditing utility engineered for rapid reconnaissance and target surface mapping. Developed with a "zero-dependency" philosophy, this tool is designed to provide security operators and researchers with an efficient way to perform target vector analysis, port enumeration, and service banner identification within complex network environments.
 
@@ -33,11 +31,11 @@ nrp-recon >
 🚀 How to Run
 If this is your first time accessing this repository, please clone it to your local machine first:
 ```
-git clone https://github.com/panjipras36-star/recon11.git
+git clone [https://github.com/panjipras36-star/RECON1.1.git](https://github.com/panjipras36-star/RECON1.1.git)
 ```
 Navigate to the project director
 ```
-cd recon11
+cd RECON1.1
 ```
 
 Run the scanner:
