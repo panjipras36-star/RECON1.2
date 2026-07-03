@@ -49,7 +49,7 @@ cd RECON1.2
 
 Run the scanner:
 ```
-python3 recon12.py
+python3 recon.py -t <TARGET_IP>
 ```
 ⚖️ Disclaimer
 
